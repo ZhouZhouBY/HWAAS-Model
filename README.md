@@ -9,6 +9,14 @@
 
 MAPE：27.41%
 
-![image-20210518224927989](file://C:\Users\zhouxin\AppData\Roaming\Typora\typora-user-images\image-20210518224927989.png?lastModify=1621350347)
+<pre><code>
+python  time_series.py	
+</pre></code>
+<table> <tbody> <tr> <td align="left" width=450>
+Mean Absolute Percentage Error<br>
+<img src="mean_absolute_percentage_error.png"/></a></td>
+<td align="left" width=450>
+Predicted Deviation<br>
+<img src="predicted_deviation.png"/></a></td>
+</td></tr></tbody></table>
 
-![image-20210518230713047](C:\Users\zhouxin\AppData\Roaming\Typora\typora-user-images\image-20210518230713047.png)
